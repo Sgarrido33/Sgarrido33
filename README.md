@@ -8,14 +8,6 @@ Más allá del código, soy una persona curiosa: disfruto entendiendo cómo func
 
 ---
 
-### 🚀 Mis Intereses
-
-* ☁️ **Cloud & DevOps:** Diseño de arquitecturas resilientes, CI/CD y automatización de infraestructura.
-* 💻 **Software Engineering:** Desarrollo Backend robusto, arquitectura de microservicios y buenas prácticas de código.
-* ⚙️ **Computer Systems:** Entusiasta de los sistemas operativos y seguridad informática.
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -41,22 +33,3 @@ Más allá del código, soy una persona curiosa: disfruto entendiendo cómo func
 
 **Frontend**
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
----
-
-### 🌟 Proyectos Destacados
-
-Si tienes poco tiempo, mira estos tres repositorios que definen mi trabajo:
-
-1.  **[DevSecOps POS Pipeline](https://github.com/Sgarrido33/devsecops-pos-pipeline)** 
-    * *Infraestructura:* CI/CD completo en GitLab con SAST (Semgrep), DAST (OWASP ZAP) y Hardening de Docker/Nginx.
-2.  **[SecureChat E2EE](https://github.com/Sgarrido33/end-to-end-encrypted-chat)** 
-    * *Computer Science:* Chat encriptado de extremo a extremo usando curvas elípticas (ECIES) y WebSockets.
-3.  **[Interactive Neuro-Art]((https://github.com/Sgarrido33/emotive-distortion-art))** 
-    * *IoT:* Instalación artística que distorsiona la realidad visual usando sensores táctiles y ESP32.
-
----
-
-### 📫 Contáctame
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-castro-vergara-59214b2ba/)
